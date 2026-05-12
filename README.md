@@ -284,8 +284,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib jupyter
 
 **Your Name**
 
-- GitHub: [@your-username](https://github.com/Ranjan234)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/soumyaranjansahoo0/)
+- GitHub: [Ranjan234](https://github.com/Ranjan234)
+- LinkedIn: [Soumya ranjan sahoo](https://www.linkedin.com/in/soumyaranjansahoo0/)
 
 ---
 
