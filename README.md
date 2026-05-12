@@ -191,8 +191,8 @@ house-price-prediction/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/Ranjan234/house-price-prediction.git
-cd house-price-prediction
+git clone https://github.com/Ranjan234/House-Price-Prediction.git
+cd House-Price-Prediction
 ```
 
 **2. Create a virtual environment (recommended)**
